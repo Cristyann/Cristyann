@@ -53,8 +53,3 @@
  <img align="center" src="https://img.shields.io/badge/-crityann_silva-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Cristyann&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristyann&layout=compact&theme=vision-friendly-dark" alt="Cristyann's most languages"/>
-</p>
